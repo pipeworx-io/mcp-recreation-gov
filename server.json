@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/recreation-gov",
+  "title": "Recreation Gov",
+  "description": "Recreation.gov MCP — wraps the Recreation Information Database (RIDB) API v1",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/recreation-gov",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-recreation-gov",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/recreation-gov/mcp"
+    }
+  ]
+}
