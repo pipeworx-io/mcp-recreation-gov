@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-recreation-gov",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Recreation.gov MCP — wraps the Recreation Information Database (RIDB) API v1",
   "type": "module",
   "main": "src/index.ts",
