@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-recreation-gov",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Recreation.gov MCP — wraps the Recreation Information Database (RIDB) API v1 (ridb.recreation.gov), the official catalog of US federal outdoor recreation: campgrounds, national park & national forest recreation areas, facilities, and individual campsites bookable on Recreation.gov.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "recreation-gov",
     "gatewaySlug": "recreation_gov",
-    "sourceHash": "v1-ae8185b213adafbf436b4037e68a857a996fa593e6cf80094242c360984a79c6",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-d02a45961eef4c844015f715270b0761a79719d07210da7ef52b346fe5b72e95",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
